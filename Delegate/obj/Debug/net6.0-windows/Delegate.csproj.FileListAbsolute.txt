@@ -1,0 +1,36 @@
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.exe
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.deps.json
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.runtimeconfig.json
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.dll
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.pdb
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.AssemblyReference.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.CustomerForm.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.GenerateResource.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfoInputs.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfo.cs
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.CoreCompileInputs.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.dll
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\refint\Delegate.dll
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.pdb
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.genruntimeconfig.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\ref\Delegate.dll
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.MainForm.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.exe
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.deps.json
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.runtimeconfig.json
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.dll
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\bin\Debug\net6.0-windows\Delegate.pdb
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.AssemblyReference.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.CustomerForm.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.MainForm.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.GenerateResource.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfoInputs.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfo.cs
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.CoreCompileInputs.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.dll
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\refint\Delegate.dll
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.pdb
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\Delegate.genruntimeconfig.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Mid-term\Car Dealership Customer Notification System\CarDealershipCompany\Delegate\obj\Debug\net6.0-windows\ref\Delegate.dll

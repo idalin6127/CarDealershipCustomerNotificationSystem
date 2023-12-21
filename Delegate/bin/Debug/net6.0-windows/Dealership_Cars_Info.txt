@@ -1,0 +1,6 @@
+Highlander,White,2019,0,49000
+Corolla,Black,2018,0,19500
+Civic,Red,2017,0,24500
+Corolla,Blue,2018,0,17000
+Elantra,Gray,2020,0,34500
+Titan,Yellow,2018,0,53000
